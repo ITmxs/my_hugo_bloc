@@ -18,7 +18,7 @@ categories: ["Markdown"]
 lightgallery: true
 ---
 
-这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.
+这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.没有通常伴随的所有复杂和丑陋的问题, **Markdown** 是一种更好的生成 **HTML** 内容的方式.
 
 <!--more-->
 

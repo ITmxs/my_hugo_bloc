@@ -10,8 +10,8 @@ description: ""
 license: ""
 images: []
 resources:
-- name: "featured-image"
-  src: "![h](https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png)"
+- name: "hobust"
+  src: "/hobust.png"
 tags: ["OpenHarmony","HarmonyOS"]
 categories: ["OpenHarmony","HarmonyOS"]
 
@@ -60,6 +60,10 @@ seo:
   images: []
   # ...
 ---
+
+OpenHarmony的发展
+
+
 
 <!--more-->
 
