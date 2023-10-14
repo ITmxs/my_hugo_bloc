@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "First"
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2023-10-14T13:03:23+08:00
+lastmod: 2023-10-14T13:03:23+08:00
 draft: false
 author: "坚果"
 authorLink: "https://gitee.com/jianguo888/"
@@ -11,7 +11,7 @@ license: ""
 images: []
 resources:
 - name: "featured-image"
-  src: "hobust.png"
+  src: "![h](https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png)"
 tags: ["OpenHarmony","HarmonyOS"]
 categories: ["OpenHarmony","HarmonyOS"]
 
@@ -62,3 +62,7 @@ seo:
 ---
 
 <!--more-->
+
+你好啊
+
+https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png

@@ -4,13 +4,13 @@ title: "主题文档 - bilibili Shortcode"
 date: 2020-03-03T11:29:41+08:00
 lastmod: 2020-03-03T12:29:41+08:00
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
+author: "坚果"
+authorLink: "https://gitee.com/jianguo888/"
 description: "bilibili shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器."
-images: []
+images: ["https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png"]
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png"
 
 tags: ["shortcodes"]
 categories: ["documentation"]
@@ -60,3 +60,7 @@ https://www.bilibili.com/video/BV1TJ411C7An?p=3
 呈现的输出效果如下:
 
 {{< bilibili id=BV1TJ411C7An p=3 >}}
+
+
+
+![hobust](https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png)

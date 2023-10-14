@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "Hong"
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2023-10-14T13:11:14+08:00
+lastmod: 2023-10-14T13:11:14+08:00
 draft: false
 author: "坚果"
 authorLink: "https://gitee.com/jianguo888/"
@@ -10,7 +10,7 @@ description: ""
 license: ""
 images: []
 resources:
-- name: "featured-image"
+- name: "featured-imag"
   src: "hobust.png"
 tags: ["OpenHarmony","HarmonyOS"]
 categories: ["OpenHarmony","HarmonyOS"]
@@ -62,3 +62,5 @@ seo:
 ---
 
 <!--more-->
+
+鸿蒙遥遥领先

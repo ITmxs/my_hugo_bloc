@@ -4,13 +4,13 @@ title: "Emoji 支持"
 date: 2019-10-01T17:55:28+08:00
 lastmod: 2019-10-01T17:55:28+08:00
 draft: false
-author: "Dillon"
+author: "坚果"
 authorLink: "https://dillonzq.com"
 description: "Hugo 和 LoveIt 中的 Emoji 的用法指南."
 images: []
 resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
+- name: "fo"
+  src: "https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png"
 
 tags: ["emoji"]
 categories: ["Markdown"]
