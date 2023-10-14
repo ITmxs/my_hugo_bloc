@@ -15,10 +15,8 @@ resources:
 tags: ["shortcodes"]
 categories: ["documentation"]
 
-hiddenFromHomePage: true
 
-toc:
-  enable: false
+
 ---
 
 {{< version 0.2.0 changed >}}
