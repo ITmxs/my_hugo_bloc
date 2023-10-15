@@ -1,6 +1,6 @@
 ---
 weight: 9
-title: "主题文档 - bilibili Shortcode"
+title: "OpenHarmony学习路线，哔哩哔哩"
 date: 2020-03-03T11:29:41+08:00
 lastmod: 2020-03-03T12:29:41+08:00
 draft: false
@@ -19,48 +19,46 @@ categories: ["documentation"]
 
 ---
 
-{{< version 0.2.0 changed >}}
-
 `bilibili` shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器.
+
+![hobust](https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png)
 
 <!--more-->
 
 如果视频只有一个部分, 则仅需要视频的 BV `id`, 例如:
 
 ```code
-https://www.bilibili.com/video/BV1Sx411T7QQ
+https://www.bilibili.com/video/BV1mj411r7ar
 ```
 
 一个 `bilibili` 示例:
 
 ```markdown
-{{</* bilibili BV1Sx411T7QQ */>}}
+{{</* bilibili BV1Th4y1Z7mL */>}}
 或者
-{{</* bilibili id=BV1Sx411T7QQ */>}}
+{{</* bilibili id=BV1Th4y1Z7mL */>}}
 ```
 
 呈现的输出效果如下:
 
-{{< bilibili id=BV1Sx411T7QQ >}}
+{{< bilibili id=BV1Th4y1Z7mL >}}
 
 如果视频包含多个部分, 则除了视频的 BV `id` 之外, 还需要 `p`, 默认值为 `1`, 例如:
 
 ```code
-https://www.bilibili.com/video/BV1TJ411C7An?p=3
+https://www.bilibili.com/video/BV1Th4y1Z7mL?p=3
 ```
 
 一个带有 `p` 参数的 `bilibili` 示例:
 
 ```markdown
-{{</* bilibili BV1TJ411C7An 3 */>}}
+{{</* bilibili BV1Th4y1Z7mL 3 */>}}
 或者
-{{</* bilibili id=BV1TJ411C7An p=3 */>}}
+{{</* bilibili id=BV1Th4y1Z7mL p=3 */>}}
 ```
 
 呈现的输出效果如下:
 
-{{< bilibili id=BV1TJ411C7An p=3 >}}
+{{< bilibili id=BV1Th4y1Z7mL p=3 >}}
 
 
-
-![hobust](https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png)

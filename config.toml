@@ -307,7 +307,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     FreeCodeCamp = ""
     Bitbucket = ""
     Stackoverflow = ""
-    Weibo = ""
+    Weibo = "u/7029338615"
     Odnoklassniki = ""
     VK = ""
     Flickr = ""
@@ -936,6 +936,27 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = ""
         url = "https://github.com/dillonzq/LoveIt"
         title = "GitHub"
+      [[languages.zh-cn.menu.main]]
+      
+        parent = "posts"
+	      identifier = "tags"
+        pre = "<i class='fas fa-fw fa-tag'></i>"
+        post = "_blank"
+	      name = "标签"
+	      url = "/tags/"
+      	title = ""
+	      weight = 2
+      [[languages.zh-cn.menu.main]]
+        parent = "posts"
+        pre = "<i class='fas fa-fw fa-th'></i>"
+        name = "分类"
+        identifier = "categories"
+        url = "/categories/"
+        weight = 1
+
+      
+ 
+  
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]
         enable = true
@@ -957,13 +978,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
+          subtitle = "付出不亚于任何人的努力，终将成功"
           typeit = true
           social = true
           disclaimer = ""
       [languages.zh-cn.params.social]
         GitHub = "xxxx"
-        Weibo = "xxxx"
+        Weibo = "u/7029338615"
         Steam = "xxxx"
         Zhihu = "xxxx"
         Douban = "xxxx"

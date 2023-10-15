@@ -10,7 +10,7 @@ description: "Hugo 和 LoveIt 中的 Emoji 的用法指南."
 images: []
 resources:
 - name: "fo"
-  src: "https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/hobust.png"
+  src: "hobust.png"
 
 tags: ["emoji"]
 categories: ["Markdown"]
