@@ -266,3 +266,13 @@ https://example.com/events/chicago/lollapalooza/
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
 ```
+
+
+
+## 常用命令
+
+```
+  hugo new posts/new-content.md     新建一篇文章
+  
+```
+

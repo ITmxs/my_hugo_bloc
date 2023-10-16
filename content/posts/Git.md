@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "Git"
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2023-10-16T13:01:47+08:00
+lastmod: 2023-10-16T13:01:47+08:00
 draft: false
 author: "坚果"
 authorLink: "https://gitee.com/jianguo888/"
@@ -60,4 +60,10 @@ seo:
   images: []
   # ...
 ---
+
+Suap工具获取：IDE插件市场搜索 OpenHarmony SDK Upgrade Assistant
+
+Suap工具使用指导：[SDK Upgrade Assistant-使用指导](https://gitee.com/openharmony/docs/blob/master/zh-cn/application-dev/tools/openharmony_sdk_upgrade_assistant.md)
+
+### 
 
